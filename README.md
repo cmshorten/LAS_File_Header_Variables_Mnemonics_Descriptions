@@ -13,7 +13,7 @@ Output:
 * errors.txt = documents errors that occur as lasio tries to read in the .las files
 * variable_info.txt = final list of the unique mnemonics and descriptions within the files
 
-Created by:
-/n Chilisa Shorten
-cshorten@usgs.gov
-12/09/21
+Created by: <br />
+Chilisa Shorten <br />
+cshorten@usgs.gov <br />
+12/09/21 <br />
