@@ -14,6 +14,6 @@ Output:
 * variable_info.txt = final list of the unique mnemonics and descriptions within the files
 
 Created by:
-Chilisa Shorten
+/n Chilisa Shorten
 cshorten@usgs.gov
 12/09/21
